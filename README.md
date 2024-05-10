@@ -5,8 +5,13 @@
 
 # Package used for this dApp
 1.React.js
+
 2.Hardhat
+
 3.ether.js
+
 4.tailwind css
+
 5.web3modal
+
 6.Vite
